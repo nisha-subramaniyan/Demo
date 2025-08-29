@@ -1,0 +1,54 @@
+/* General body style */
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    padding: 0;
+}
+
+/* Header style */
+header {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+/* Navigation links */
+nav a {
+    text-decoration: none;
+    margin: 0 10px;
+    color: blue;
+}
+
+/* Section style */
+section {
+    margin: 20px 0;
+}
+
+/* Headings */
+h1, h2 {
+    color: darkblue;
+}
+
+/* Footer style */
+footer {
+    text-align: center;
+    margin-top: 20px;
+    font-size: 14px;
+    color: gray;
+}
+
+/* Contact form */
+form {
+    margin-top: 10px;
+}
+
+input, textarea {
+    width: 100%;
+    max-width: 400px;
+    padding: 5px;
+    margin-top: 5px;
+}
+
+button {
+    padding: 5px 10px;
+    margin-top: 10px;
+}
