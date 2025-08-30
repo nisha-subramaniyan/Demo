@@ -1,4 +1,4 @@
-## 🎉 First Collaborative Project 🎉
+## ✨ Group Activity - First Collaborative Project ✨
 
 ## 👥
 #### Manoj Ashokan
