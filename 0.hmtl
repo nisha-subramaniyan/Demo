@@ -1,0 +1,16 @@
+{
+   "Version": "2017-10-17",
+   "Statement": [
+       {
+           "sid": "AllowS3ActionsInUsEast1",
+           "Effect": "Allow",
+           "Action": "s3:*",
+           "Resorce": "*",
+           "condition": {
+                "StringEquals":{
+                    "aws:ResquestedRegion": "us-east-1"
+                }
+            }
+        }
+    ]
+}
